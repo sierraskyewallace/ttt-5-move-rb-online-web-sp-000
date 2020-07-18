@@ -15,6 +15,6 @@ def move(board, index, player = "X")
 end
 
 
-board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 
